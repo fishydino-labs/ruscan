@@ -1,0 +1,9 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 ООО «Fishydino»
+# Distributed under the MIT License; see LICENSE.
+# Ruscan input list: one name per line, '#' starts a comment.
+yandex.ru
+kremlin.ru
+example.su
+# a name that is almost certainly free:
+qwzx-ruscan-probe-7391.ru
